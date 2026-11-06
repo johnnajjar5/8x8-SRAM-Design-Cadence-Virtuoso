@@ -98,8 +98,12 @@ This section will include actual implementation screenshots and results:
 ## 👨‍💻 Author
 
 **John Najjar** 
+
 **shaker amon**
+
 **Wajdi Abo-Rees**
+
 **Mohamed Sawaed**
+
 Electrical & Electronics Engineering Graduate  
 Braude Academic College of Engineering
