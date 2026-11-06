@@ -1,4 +1,4 @@
-# 8×8 SRAM Register File |  VLSI Design Project ⚙️🔬
+# 8×8 SRAM Memory System |  VLSI Design Project ⚙️🔬
 
 ## 📚 Project Overview
 
